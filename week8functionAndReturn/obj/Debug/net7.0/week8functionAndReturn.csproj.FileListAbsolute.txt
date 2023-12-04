@@ -1,0 +1,15 @@
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/bin/Debug/net7.0/week8functionAndReturn
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/bin/Debug/net7.0/week8functionAndReturn.deps.json
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/bin/Debug/net7.0/week8functionAndReturn.runtimeconfig.json
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/bin/Debug/net7.0/week8functionAndReturn.dll
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/bin/Debug/net7.0/week8functionAndReturn.pdb
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.csproj.AssemblyReference.cache
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.AssemblyInfoInputs.cache
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.AssemblyInfo.cs
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.csproj.CoreCompileInputs.cache
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.dll
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/refint/week8functionAndReturn.dll
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.pdb
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/week8functionAndReturn.genruntimeconfig.cache
+/Users/antonisariev/Projects/week8functionAndReturn/week8functionAndReturn/obj/Debug/net7.0/ref/week8functionAndReturn.dll
